@@ -1,12 +1,14 @@
 {
   "enabled": true,
   "title": "सूचना",
+  "imageUrl": "https://calendar-event.pages.dev/images/new_year_2082.jpg",
   "message": "आज सार्वजनिक बिदा रहेको जानकारी गराइन्छ।",
   "start_date": "2026-01-23",
   "end_date": "2026-01-24",
   "show_once": true,
   "version": "1.0.3"
 }
+
 
 
 
