@@ -1,0 +1,248 @@
+{
+  "1-1": {
+    "title": ["नयाँ वर्ष २०८२"],
+    "specialDay": ["नयाँ वर्ष २०८२"],
+    "image": "https://calendar-event.pages.dev/images/new_year_2082.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-2": {
+    "title": ["मध्यपुर, ठिमी बालकुमारी जात्रा"],
+    "specialDay": ["बालकुमारी जात्रा"],
+    "image": "https://calendar-event.pages.dev/images/balkumari_jatra.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-7": {
+    "title": ["रवि सप्तमी व्रत"],
+    "specialDay": ["रवि सप्तमी व्रत"],
+    "image": "https://calendar-event.pages.dev/images/rabhi_saptami.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-11": {
+    "title": ["बरुथिनी एकादशी व्रत"],
+    "specialDay": ["बरुथिनी एकादशी व्रत"],
+    "image": "https://calendar-event.pages.dev/images/bishnu_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-12": {
+    "title": ["प्रदोष व्रत"],
+    "specialDay": ["प्रदोष व्रत"],
+    "image": "https://calendar-event.pages.dev/images/shiva_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-14": {
+    "title": ["मातातीर्थ औँसी"],
+    "specialDay": ["मातातीर्थ औँसी"],
+    "image": "https://calendar-event.pages.dev/images/mothers_day.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-15": {
+    "title": ["रातो मत्स्येन्द्रनाथ रथयात्रा"],
+    "specialDay": ["रातो मत्स्येन्द्रनाथ रथयात्रा"],
+    "image": "https://calendar-event.pages.dev/images/rato_machendra_nath.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-17": {
+    "title": ["अक्षय तृतीया"],
+    "specialDay": ["अक्षय तृतीया"],
+    "image": "https://calendar-event.pages.dev/images/Akshay-Tritiya.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-18": {
+    "title": ["श्रमिक दिवस"],
+    "specialDay": ["श्रमिक दिवस"],
+    "image": "https://calendar-event.pages.dev/images/labours_day.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-19": {
+    "title": ["आद्यगुरु शंकराचार्य जयन्ती"],
+    "specialDay": ["शआद्यगुरु शंकराचार्य जयन्ती"],
+    "image": "https://calendar-event.pages.dev/images/guru_shankaracharya.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-20": {
+    "title": ["अन्तर्राष्ट्रिय प्रेस स्वतन्त्रता दिवस"],
+    "specialDay": ["अन्तर्राष्ट्रिय प्रेस स्वतन्त्रता दिवस"],
+    "image": "https://calendar-event.pages.dev/images/press.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-25": {
+    "title": ["मोहिनी एकादशी व्रत"],
+    "specialDay": ["मोहिनी एकादशी व्रत"],
+    "image": "https://calendar-event.pages.dev/images/bishnu_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "1-26": [
+    {
+    "title": ["कानून दिवस"],
+    "specialDay": ["कानून दिवस"],
+      "image": "https://calendar-event.pages.dev/images/nepal_law_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+    },
+    {
+      "title": ["प्रदोष व्रत"],
+      "specialDay": ["प्रदोष व्रत"],
+      "image": "https://calendar-event.pages.dev/images/shiva_god.jpg",
+      "link": "https://calendar-event.pages.dev/data/details_event.json"
+    }
+  ],
+  "1-29": {
+    "title": ["बुद्ध जयन्ती"],
+    "specialDay": ["बुद्ध जयन्ती"],
+    "image": "https://calendar-event.pages.dev/images/buddha_jayant.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-1": {
+    "title": ["अन्तर्राष्ट्रिय परिवार दिवस"],
+    "specialDay": ["अन्तर्राष्ट्रिय परिवार दिवस"],
+    "image": "https://calendar-event.pages.dev/images/international_famely_day.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-3": {
+    "title": ["विश्व उच्च रक्तचाप दिवस"],
+    "specialDay": ["विश्व उच्च रक्तचाप दिवस"],
+    "image": "https://calendar-event.pages.dev/images/international_hart_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-8": {
+    "title": ["वअन्तर्राष्ट्रिय जैविक विविधता दिवस"],
+    "specialDay": ["वअन्तर्राष्ट्रिय जैविक विविधता दिवस"],
+    "image": "https://calendar-event.pages.dev/images/international_jaibak_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-9": {
+    "title": ["अपरा एकादशी व्रत"],
+    "specialDay": ["अपरा एकादशी व्रत"],
+    "image": "https://calendar-event.pages.dev/images/bishnu_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-10": {
+    "title": ["शनि प्रदोष व्रत"],
+    "specialDay": ["अपरा एकादशी व्रत"],
+    "image": "https://calendar-event.pages.dev/images/shiva_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-13": {
+    "title": ["शनि जयन्ती"],
+    "specialDay": ["शनि जयन्ती"],
+    "image": "https://calendar-event.pages.dev/images/sani_jaynti.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-15": {
+    "title": ["राष्ट्रिय गणतन्त्र दिवस"],
+    "specialDay": ["राष्ट्रिय गणतन्त्र दिवस"],
+    "image": "https://calendar-event.pages.dev/images/nepalrepublic_day.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-17": {
+    "title": ["िश्व धूमपान विरुद्धको दिवस"],
+    "specialDay": ["िश्व धूमपान विरुद्धको दिवस"],
+    "image": "https://calendar-event.pages.dev/images/dhumrapan_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-18": {
+    "title": ["भोटो जात्रा"],
+    "specialDay": ["भोटो जात्रा"],
+    "image": "https://calendar-event.pages.dev/images/bhoto_jatra.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-21": {
+    "title": ["जातीय भेदभाव तथा छुवाछूत उन्मूलन दिवस"],
+    "specialDay": ["जातीय भेदभाव तथा छुवाछूत उन्मूलन दिवस"],
+    "image": "https://calendar-event.pages.dev/images/jaatiya_bhedbhab.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-24": {
+    "title": ["निर्जला एकादशी"],
+    "specialDay": ["निर्जला एकादशी"],
+    "image": "https://calendar-event.pages.dev/images/bishnu_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-25": {
+    "title": ["प्रदोष व्रत"],
+    "specialDay": ["प्रदोष व्रत"],
+    "image": "https://calendar-event.pages.dev/images/shiva_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-29": {
+    "title": ["बालश्रमविरुद्धको दिवस"],
+    "specialDay": ["बालश्रमविरुद्धको दिवस"],
+    "image": "https://calendar-event.pages.dev/images/bal_sharm_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "2-31": {
+    "title": ["विश्व रक्तदाता दिवस"],
+    "specialDay": ["विश्व रक्तदाता दिवस"],
+    "image": "https://calendar-event.pages.dev/images/international_bloddonate_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-1": {
+    "title": ["माघे संक्रान्ति"],
+    "specialDay": ["माघे संक्रान्ति"],
+    "image": "https://calendar-event.pages.dev/images/maghe_sagranti.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-2": {
+    "title": ["प्रदोष व्रत"],
+    "specialDay": ["प्रदोष व्रत"],
+    "image": "https://calendar-event.pages.dev/images/shiva_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-4": {
+    "title": ["माधवनारायण मेला"],
+    "specialDay": ["माधवनारायण मेला"],
+    "image": "https://calendar-event.pages.dev/images/madhavnarayan_mela.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-5": {
+    "title": ["सोनाम ल्होसार: तामाङ समुदायको नयाँ वर्ष"],
+    "specialDay": ["सोनाम ल्होसार"],
+    "image": "https://calendar-event.pages.dev/images/sonam_losar.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-9": {
+    "title": ["बसन्त पञ्चमी व्रत / सरस्वती पूजा"],
+    "specialDay": ["सरस्वती पूजा"],
+    "image": "https://calendar-event.pages.dev/images/saraswati_devi.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-12": {
+    "title": ["अन्तर्राष्ट्रिय भन्सार दिवस"],
+    "specialDay": ["अन्तर्राष्ट्रिय भन्सार दिवस"],
+    "image": "https://calendar-event.pages.dev/images/international_bhansar.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+  "10-15": [
+    {
+    "title": ["भीमा एकादशी व्रत"],
+    "specialDay": ["एकादशी"],
+    "image": "https://calendar-event.pages.dev/images/bishnu_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+    },
+    {
+      "title": ["नेपाल नर्सिङ दिवस"],
+      "specialDay": ["नेपाल नर्सिङ दिवस"],
+      "image": "https://calendar-event.pages.dev/images/nepal_nursing_dibas.jpg",
+      "link": "https://calendar-event.pages.dev/data/details_event.json"
+    }
+  ],
+  "10-16": [
+    {
+    "title": ["शहीद दिवस (नेपाल)"],
+    "specialDay": ["शहीद दिवस"],
+    "image": "https://calendar-event.pages.dev/images/sahid_dibas.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+    },
+    {
+      "title": ["प्रदोष व्रत"],
+      "specialDay": ["प्रदोष व्रत"],
+      "image": "https://calendar-event.pages.dev/images/shiva_god.jpg",
+      "link": "https://calendar-event.pages.dev/data/details_event.json"
+    }
+  ],
+  "10-18": {
+    "title": ["श्री स्वस्थानी व्रत समाप्त"],
+    "specialDay": ["श्री स्वस्थानी व्रत समाप्त"],
+    "image": "https://calendar-event.pages.dev/images/shree_swathani_mata.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  }
+}
