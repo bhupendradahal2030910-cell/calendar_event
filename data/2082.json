@@ -202,7 +202,7 @@
   "10-9": {
     "title": ["बसन्त पञ्चमी व्रत / सरस्वती पूजा"],
     "specialDay": ["सरस्वती पूजा"],
-    "image": "https://calendar-event.pages.dev/images/saraswati_devi.jpg",
+    "image": "https://calendar-event.pages.dev/images/saraswati_devi.jpg//",
     "link": "https://calendar-event.pages.dev/data/details_event.json"
   },
   "10-12": {
@@ -247,4 +247,5 @@
   }
 
 }
+
 
