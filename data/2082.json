@@ -178,7 +178,7 @@
   "10-1": {
     "title": ["माघे संक्रान्ति"],
     "specialDay": ["माघे संक्रान्ति"],
-    "image": "https://calendar-event.pages.dev/images/maghe_sagranti.jpg",
+    "image": "https://calendar-event.pages.dev/images/maghe_sagranti.jpg//",
     "link": "https://calendar-event.pages.dev/data/details_event.json"
   },
   "10-2": {
@@ -245,4 +245,5 @@
     "image": "https://calendar-event.pages.dev/images/shree_swathani_mata.jpg",
     "link": "https://calendar-event.pages.dev/data/details_event.json"
   }
+
 }
