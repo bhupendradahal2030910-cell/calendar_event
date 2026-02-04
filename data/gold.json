@@ -1,0 +1,23 @@
+{
+  "lastUpdated": "माघ २९ | १०:४५",
+  "gold": {
+    "title": "छापावाल सुन",
+    "price": 308600,
+    "change": 9800,
+    "unit": "प्रति तोला",
+    "trend": -9.8
+  },
+  "silver": {
+    "title": "चाँदी",
+    "price": 5600,
+    "change": 265,
+    "unit": "प्रति तोला",
+    "trend": -9.3
+  },
+  "history": [
+    { "date": "माघ २३", "gold": 308600, "silver": 5235 },
+    { "date": "माघ २४", "gold": 315000, "silver": 5400 },
+    { "date": "माघ २५", "gold": 320000, "silver": 5800 },
+    { "date": "माघ २६", "gold": 310000, "silver": 5500 }
+  ]
+}
