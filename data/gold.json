@@ -8,7 +8,7 @@
       "price": 304700,
       "change": 14700,
       "percent": 4.7,
-      "direction": "down
+      "direction": "down"
     },
     {
       "id": "silver",
@@ -20,5 +20,6 @@
     }
   ]
 }
+
 
 
