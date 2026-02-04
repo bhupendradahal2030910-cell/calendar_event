@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "माघ २९ | १०:४५",
-  "gold": {
-    "title": "छापावाल सुन",
-    "price": 308600,
-    "change": 9800,
-    "unit": "प्रति तोला",
-    "trend": -9.8
-  },
-  "silver": {
-    "title": "चाँदी",
-    "price": 5600,
-    "change": 265,
-    "unit": "प्रति तोला",
-    "trend": -9.3
-  },
-  "history": [
-    { "date": "माघ २३", "gold": 308600, "silver": 5235 },
-    { "date": "माघ २४", "gold": 315000, "silver": 5400 },
-    { "date": "माघ २५", "gold": 320000, "silver": 5800 },
-    { "date": "माघ २६", "gold": 310000, "silver": 5500 }
+  "status": 200,
+  "message": "Metal Price fetched successfully",
+  "date": "2026-02-04",
+  "data": [
+    {
+      "metal": {
+        "id": 1,
+        "name": "Chapawal Gold"
+      },
+      "price": {
+        "per_tola": 304700,
+        "per_ten_gram": 261230
+      },
+      "change": {
+        "amount": 1200,
+        "trend": "up"
+      }
+    },
+    {
+      "metal": {
+        "id": 2,
+        "name": "Tejabi Gold"
+      },
+      "price": {
+        "per_tola": 0,
+        "per_ten_gram": 0
+      },
+      "change": {
+        "amount": 0,
+        "trend": "same"
+      }
+    },
+    {
+      "metal": {
+        "id": 3,
+        "name": "Silver"
+      },
+      "price": {
+        "per_tola": 5600,
+        "per_ten_gram": 4801
+      },
+      "change": {
+        "amount": -100,
+        "trend": "down"
+      }
+    }
   ]
 }
