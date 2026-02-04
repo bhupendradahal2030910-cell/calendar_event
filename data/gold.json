@@ -5,7 +5,7 @@
     {
       "id": "gold",
       "title": "छापावाल सुन",
-      "price": 304,700,
+      "price": 304700,
       "change": 14700,
       "percent": 4.7,
       "direction": "up"
@@ -20,4 +20,5 @@
     }
   ]
 }
+
 
