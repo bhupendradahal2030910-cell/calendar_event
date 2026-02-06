@@ -5,7 +5,7 @@
     {
       "id": "gold",
       "title": "छापावाल सुन",
-      "price": 400000,
+      "price": 295200,
       "change": 0,
       "percent": 0,
       "direction": "same"
@@ -13,13 +13,14 @@
     {
       "id": "silver",
       "title": "चाँदी",
-      "price": 4910,
+      "price": 4980,
       "change": 0,
       "percent": 0,
       "direction": "same"
     }
   ]
 }
+
 
 
 
