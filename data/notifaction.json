@@ -3,11 +3,12 @@
   "title": "सूचना",
   "imageUrl": "https://picsum.photos/400/200",
   "message": "आज सार्वजनिक बिदा रहेको जानकारी गराइन्छ।",
-  "start_date": "2026-01-23",
-  "end_date": "2026-01-24",
+  "start_date": "2026-02-2",
+  "end_date": "2026-02-7",
   "show_once": true,
   "version": "1.0.3"
 }
+
 
 
 
