@@ -1,57 +1,18 @@
 {
-  "last_updated": "2026-02-07T10:45:00",
+ 
+  "date": "2082-10-25",
   "unit": "tola",
   "rates": [
     {
       "id": "gold",
       "title": "छापावाल सुन",
-      "price": 170332,
-      "change": 0,
-      "percent": 0,
-      "direction": "same"
-    },
+      "price": 300500,
+   },
     {
       "id": "silver",
       "title": "चाँदी",
-      "price": 4201,
-      "change": 0,
-      "percent": 0,
-      "direction": "same"
+      "price": 5010,
+     
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
