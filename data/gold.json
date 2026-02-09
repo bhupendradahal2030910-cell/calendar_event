@@ -1,21 +1,22 @@
 {
  
-  "date": "2082-10-09",
+  "date": "2082-10-11",
   "unit": "tola",
   "rates": [
     {
       "id": "gold",
       "title": "छापावाल सुन",
-      "price": 301400
+      "price": 303800
    },
     {
       "id": "silver",
       "title": "चाँदी",
-      "price": 6190
+      "price": 6480
      
     }
   ]
 }
+
 
 
 
