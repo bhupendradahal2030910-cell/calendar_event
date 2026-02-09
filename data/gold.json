@@ -5,15 +5,16 @@
     {
       "id": "gold",
       "title": "छापावाल सुन",
-      "price": 204600
+      "price": 304600
     },
     {
       "id": "silver",
       "title": "चाँदी",
-      "price": 1250
+      "price": 5250
     }
   ]
 }
+
 
 
 
