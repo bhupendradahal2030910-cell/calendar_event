@@ -1,18 +1,14 @@
 {
   "enabled": true,
-  "title": "सूचना",
-  "headline": "गुरु पूर्णिमाको Best उपहार दिएर प्रसन्न पार्नुहोस्🥰",
+  "title": "🎉 नयाँ वर्ष २०८३",
+  "headline": "✨ नयाँ वर्ष २०८३ को हार्दिक मंगलमय शुभकामना ✨",
   "imageUrl": "https://calendar-event.pages.dev/images/new_year_2083.jpg",
-  "message": "आज सार्वजनिक बिदा रहेको जानकारी गराइन्छ।",
+  "message": "नयाँ वर्ष २०८३ ले तपाईंको जीवनमा सुख, शान्ति, समृद्धि र सफलता ल्याओस्। परिवारमा खुशी, स्वास्थ्य र प्रगतिको उज्यालो भरियोस्।\n\n🙏 नयाँ वर्षको हार्दिक शुभकामना 🙏",
   "start_date": "2026-04-07",
   "end_date": "2026-04-12",
   "show_once": true,
   "version": "1.0.3",
-  "cancelText": "Cancel",
-  "viewAllText": "View All",
-  "viewAllUrl": "https://hamropatro.com" 
+  "cancelText": "बन्द गर्नुहोस्",
+  "viewAllText": "थप हेर्नुहोस्",
+  "viewAllUrl": "https://hamropatro.com"
 }
-
-
-
-
