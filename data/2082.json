@@ -244,9 +244,19 @@
     "specialDay": ["श्री स्वस्थानी व्रत समाप्त"],
     "image": "https://calendar-event.pages.dev/images/shree_swathani_mata.jpg",
     "link": "https://calendar-event.pages.dev/data/details_event.json"
-  }
+  },
+
+
+
+"12-30": {
+    "title": ["बरुथिनी एकादशी व्रत"],
+    "specialDay": ["बरुथिनी एकादशी व्रत"],
+    "image": "https://calendar-event.pages.dev/images/bishnu_god.jpg",
+    "link": "https://calendar-event.pages.dev/data/details_event.json"
+  },
+
+
 
 }
-
 
 
