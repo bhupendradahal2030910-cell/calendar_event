@@ -1,10 +1,10 @@
 {
   "version": "1.1.6",
   "notes": [
-   Improved performance and faster loading
-   Fixed bugs and crashes for better stability
-   Enhanced UI for smoother navigation
-   Improved Nepali date and calendar accuracy
-   Optimized notifications
+    "Improved performance and faster loading",
+    "Fixed bugs and crashes for better stability",
+    "Enhanced UI for smoother navigation",
+    "Improved Nepali date and calendar accuracy",
+    "Optimized notifications"
   ]
 }
