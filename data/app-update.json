@@ -1,8 +1,10 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.19",
   "notes": [
-    "Improved UI and user experience",
-    "Faster app performance",
-    "Bug fixes and improvements"
+    "Improved voice typing experience",
+    "Fixed bottom padding issue in voice typing",
+    "Updated gold rate date accuracy"
+    "Fixed recharge scanner bottom padding issue"
+    "bug fixes and performance improvements"
   ]
 }
