@@ -1,27 +1,10 @@
 {
-  "year": 2083,
-  "ttl_hours": 25,
-  "days": {
-    "1-11": {
-      "holiday": [],
-      "national": []
-    },
-    "1-24": {
-      "holiday": ["भाषा दिबस - बागमती  प्रदेश मात्र"],
-      "national": []
-    },
-    "1-9": {
-      "holiday": [],
-      "national": []
-    },
-     "1-2": {
-      "holiday": [],
-      "national": []
-    },
-     "1-8": {
-      "holiday": [],
-      "national": []
-    }
-    
+  "1-1": {
+    "title": ["नयाँ वर्ष २०८३"],
+    "specialDay": ["नयाँ वर्ष २०८३"],
+    "image": "https://calendar-event.pages.dev/images/new_year_2083.jpg",
+    "link": "https://calendar-event.pages.dev/data/2083_details.json"
   }
+
 }
+
