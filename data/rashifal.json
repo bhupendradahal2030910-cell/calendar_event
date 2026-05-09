@@ -1,1 +1,18 @@
 
+{
+  "enabled": true,
+  "title": "Patro Hub",
+  "headline": "🌟 Enjoying Patro Hub?",
+  "message": "Thank you for using Patro Hub daily. Please support us with a 5-star review on Play Store.",
+  "imageUrl": "https://calendar-event.pages.dev/images/review.jpg",
+  "type": "rating",
+  "show_once": true,
+  "version": "15",
+  "start_date": "2026-05-01",
+  "end_date": "2026-12-31",
+  "primaryButton": "⭐ Rate Now",
+  "secondaryButton": "Later",
+  "playstoreUrl": "https://play.google.com/store/apps/details?id=com.shreeyadahal.patrohub",
+  "delaySeconds": 4,
+  "minAppOpens": 5
+}
