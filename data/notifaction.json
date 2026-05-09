@@ -1,14 +1,17 @@
 {
   "enabled": true,
-  "title": "🎉 नयाँ वर्ष २०८३",
-  "headline": "नयाँ वर्ष २०८३ को हार्दिक मंगलमय शुभकामना",
-  "imageUrl": "https://calendar-event.pages.dev/images/new_year_2083.jpg",
-  "message": "नयाँ वर्ष २०८३ ले तपाईंको जीवनमा सुख, शान्ति, समृद्धि र सफलता ल्याओस्। परिवारमा खुशी, स्वास्थ्य र प्रगतिको उज्यालो भरियोस्।\n\n🙏 नयाँ वर्षको हार्दिक शुभकामना 🙏",
-  "start_date": "2026-04-13",
-  "end_date": "2026-04-13",
-  "show_once": false,
-  "version": "1.0.3",
-  "cancelText": "बन्द गर्नुहोस्",
-  "viewAllText": "थप हेर्नुहोस्",
-  "viewAllUrl": "https://hamropatro.com"
+  "title": "Patro Hub",
+  "headline": "🌟 Enjoying Patro Hub?",
+  "message": "Thank you for using Patro Hub daily. Please support us with a 5-star review on Play Store.Thank you for using Patro",
+  "imageUrl": "",
+  "type": "rating",
+  "show_once": true,
+  "version": "15",
+  "start_date": "2026-05-01",
+  "end_date": "2026-05-02",
+  "primaryButton": "⭐ Rate Now",
+  "secondaryButton": "Later",
+  "playstoreUrl": "https://play.google.com/store/apps/details?id=com.shreeyadahal.patrohub",
+  "delaySeconds": 4,
+  "minAppOpens": 0
 }
