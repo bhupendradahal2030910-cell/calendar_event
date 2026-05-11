@@ -1,10 +1,10 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.24",
   "notes": [
-    "Improved voice typing experience",
-    "Fixed bottom padding issue in voice typing",
-    "Updated gold rate date accuracy",
-    "Fixed recharge scanner bottom padding issue",
-    "Bug fixes and performance improvements"
+    "✨ Added new Nepali Quiz Game",
+    "⚡ Faster app performance and startup improvements",
+    "🔔 Notification fixed and improved reliability",
+    "🎨 UI/UX improvements across the app",
+    "📈 Overall optimization for better user experience"
   ]
 }
