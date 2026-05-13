@@ -1,7 +1,7 @@
 {
-  "version": "1.1.24",
+  "version": "1.1.25",
   "notes": [
-    "Added new Nepali Quiz Game",
+    "Added Daily and Yearly Rashifal (राशिफल)",
     "Faster app performance and startup improvements",
     "Notification fixed and improved reliability",
     "UI/UX improvements across the app",
