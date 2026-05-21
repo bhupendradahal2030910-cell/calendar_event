@@ -1,10 +1,10 @@
 {
-  "version": "1.1.32",
+  "version": "1.1.33",
   "notes": [
-    "Added new features and improvements",
-    "Enhanced performance and stability",
-    "छिटो र स्मूथ एप ",
-    "UI/UX improvements across the app",
-    "Overall optimization for better user experience"
+    "• Improved app startup speed",
+    "• Faster app opening and smoother performance",
+    "• Better stability and bug fixes",
+    "• Optimized background services and notifications",
+    "• UI improvements and enhancements"
   ]
 }
