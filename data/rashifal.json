@@ -6,7 +6,7 @@
   "message": "Thank you for using Patro Hub daily. Please support us with a 5-star review on Play Store.Thank you for using Patro",
   "imageUrl": "",
   "type": "rating",
-  "show_once": true,
+  "show_once": false,
   "version": "15",
   "start_date": "2026-05-01",
   "end_date": "2026-05-25",
