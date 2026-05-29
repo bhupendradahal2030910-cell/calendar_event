@@ -13,5 +13,5 @@
   "secondaryButton": "Later",
   "playstoreUrl": "https://play.google.com/store/apps/details?id=com.shreeyadahal.patrohub",
   "delaySeconds": 4,
-  "minAppOpens": 5
+  "minAppOpens": 0
 }
