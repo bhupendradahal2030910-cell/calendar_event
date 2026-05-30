@@ -1,10 +1,10 @@
 {
   "version": "1.1.35",
   "notes": [
-    "✓ App startup is now very fast",
-    "✓ Navigation speed improved",
-    "✓ Fixed crashes and stability issues",
-    "✓ Better smoothness and performance",
+    "General optimizations",
+    "Improved app performance and stability",
+    "Enhanced notification reliability",
+    "Fixed crashes and bugs",
     
   ]
 }
