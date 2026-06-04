@@ -1,10 +1,8 @@
 {
-  "version": "1.1.37",
+  "version": "1.1.38",
   "notes": [
     "General optimizations",
-    "Improved app performance and stability",
-    "Enhanced notification reliability",
-    "Fixed crashes and bugs"
+    "Fixed  bugs"
     
   ]
 }
