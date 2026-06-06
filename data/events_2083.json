@@ -1,1 +1,27 @@
 
+{
+  "year": 2083,
+
+  "defaultImage":
+  "https://calendar-event.pages.dev/images/new_year_2082.jpg",
+
+  "events": [
+
+    {
+      "date": "2083-02-24",
+      "title": "रवि सप्तमी व्रत",
+
+      "image":
+      "https://yourdomain.com/patro/images/ravi_saptami.webp"
+    },
+
+    {
+      "date": "2083-02-25",
+      "title": "विश्व महासागर दिवस",
+
+      "image":
+      "https://yourdomain.com/patro/images/ocean_day.webp"
+    }
+
+  ]
+}
