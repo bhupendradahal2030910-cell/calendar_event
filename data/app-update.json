@@ -1,7 +1,9 @@
 {
-  "version": "1.1.42",
+  "version": "1.1.43",
   "notes": [
-    "⚽  World Cup 2026 match schedule"
+    "World Cup 2026 match schedule",
+    "Fixed match loading issues",
+    "Improved live score updates"
     
     
   ]
