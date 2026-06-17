@@ -1,7 +1,7 @@
 {
-  "version": "1.1.43",
+  "version": "1.1.44",
   "notes": [
-    "World Cup 2026 match schedule",
+    "Faster live score updates",
     "Fixed match loading issues"
    
   ]
