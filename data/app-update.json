@@ -1,7 +1,7 @@
 {
-  "version": "1.1.44",
+  "version": "1.1.46",
   "notes": [
-    "Faster live score updates",
+    "Enhanced overall user experience",
     "Fixed match loading issues"
    
   ]
