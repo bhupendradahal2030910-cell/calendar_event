@@ -1,7 +1,13 @@
-
 {
   "version": "1.1.48",
+  "min_supported_version": "1.1.40",
+  "force_update": false,
+  "critical": false,
+  "title": "Update Available",
   "notes": [
-    "Improved app stability"
-  ]
+    "Improved app stability",
+    "Fixed minor bugs",
+    "Better performance on low-end devices"
+  ],
+  "playstore_url": "https://play.google.com/store/apps/details?id=com.shreeyadahal.patrohub"
 }
