@@ -1,9 +1,8 @@
 {
-  "version": "1.1.51",
+  "version": "1.1.52",
   "notes": [
     "More reliable calendar data for users in the USA, UK, Australia, Europe, Middle East, India, and other regions worldwide.",
-    "Improved BS ↔ AD date conversion accuracy.",
-    "Enhanced overall calendar stability and performance.",
-    "Fixed minor bugs and made general reliability improvements."
+    "Fixed bugs and enhanced reliability.",
+    "Update now for the best experience!"
   ]
 }
