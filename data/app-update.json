@@ -1,12 +1,6 @@
 {
-  "version": "1.1.49",
+  "version": "1.1.51",
   "notes": [
-    "🌍 Worldwide Nepali Calendar Support",
-    "Nepali Date (BS) now works accurately across all countries and time zones.",
-    "Fixed issues where Nepali dates could appear incorrectly for users outside Nepal.",
-    "Improved Panchang date transitions based on each user's local time.",
-    "Enhanced sunrise-based Tithi, Nakshatra, and festival calculations.",
-    "Better timezone detection and date synchronization for global users.",
     "More reliable calendar data for users in the USA, UK, Australia, Europe, Middle East, India, and other regions worldwide.",
     "Improved BS ↔ AD date conversion accuracy.",
     "Enhanced overall calendar stability and performance.",
