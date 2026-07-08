@@ -1,7 +1,9 @@
 {
-  "version": "1.1.57",
+  "version": "1.1.59",
   "notes": [
-    "Improved app performance and stability"
+    "Improved Kundali calculations for more accurate astrological results",
+    "Enhanced Gochar (Planetary Transit) analysis with better precision",
+    "Improved Tithi calculations for increased accuracy and reliability"
     
   ]
 }
