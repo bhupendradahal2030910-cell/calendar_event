@@ -1,7 +1,7 @@
 {
-  "version": "1.1.68",
+  "version": "1.1.69",
   "notes": [
-    "Fixed minor bugs and enhanced user experience.",
+    "Optimized background services ",
     "Added more translations and language improvements"
     
    ]
