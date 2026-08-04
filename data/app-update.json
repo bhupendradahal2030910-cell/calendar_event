@@ -1,8 +1,8 @@
 {
-  "version": "1.1.71",
+  "version": "1.1.73",
   "notes": [
-    "Improved app stability and performance",
-    "Fixed Kundali search location issues."
+    "Fixed Forex Exchange Rate loading and reliability issues",
+    "Improved Nepali Speech-to-Text accuracy for faster and more accurate voice"
     
      ]
 }
