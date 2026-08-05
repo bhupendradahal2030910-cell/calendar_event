@@ -1,8 +1,8 @@
 {
-  "version": "1.1.73",
+  "version": "1.1.74",
   "notes": [
-    "Fixed Forex Exchange Rate loading and reliability issues",
-    "Improved Nepali Speech-to-Text accuracy for faster and more accurate voice"
+    "Improved app stability and performance"
+    
     
      ]
 }
