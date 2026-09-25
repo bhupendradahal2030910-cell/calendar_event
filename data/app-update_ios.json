@@ -1,7 +1,10 @@
-{
-  "version": "1.0.4",
+'{
+  "version": "1.0.6",
   "notes": [
-    "Improved stability and performance"
+    "Improved app stability and performance",
+    "Minor UI and usability improvements",
+    "General performance optimizations"
+    
     
     
      ]
