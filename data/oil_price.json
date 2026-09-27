@@ -2,7 +2,32 @@
   "source": "Nepal Oil Corporation",
   "updated_at": "6/24/2026",
   "depots": {
-    "Charali": {
+   "Kathmandu": {
+      "petrol": "Rs 200.00/Ltr",
+      "diesel": "Rs 200.00/Ltr",
+      "kerosene": "Rs 200.00/Ltr"
+    },
+    "Pokhara": {
+      "petrol": "Rs 200.00/Ltr",
+      "diesel": "Rs 200.00/Ltr",
+      "kerosene": "Rs 200.00/Ltr"
+    },
+    "Dipayal": {
+      "petrol": "Rs 200.00/Ltr",
+      "diesel": "Rs 200.00/Ltr",
+      "kerosene": "Rs 200.00/Ltr"
+    },
+     "Surkhet": {
+      "petrol": "Rs 199.00/Ltr",
+      "diesel": "Rs 199.00/Ltr",
+      "kerosene": "Rs 199.00/Ltr"
+    },
+    "Dang": {
+      "petrol": "Rs 199.00/Ltr",
+      "diesel": "Rs 199.00/Ltr",
+      "kerosene": "Rs 199.00/Ltr"
+    },
+   "Charali": {
       "petrol": "Rs 197.50/Ltr",
       "diesel": "Rs 197.50/Ltr",
       "kerosene": "Rs 197.50/Ltr"
@@ -41,31 +66,8 @@
       "petrol": "Rs 197.50/Ltr",
       "diesel": "Rs 197.50/Ltr",
       "kerosene": "Rs 197.50/Ltr"
-    },
-    "Surkhet": {
-      "petrol": "Rs 199.00/Ltr",
-      "diesel": "Rs 199.00/Ltr",
-      "kerosene": "Rs 199.00/Ltr"
-    },
-    "Dang": {
-      "petrol": "Rs 199.00/Ltr",
-      "diesel": "Rs 199.00/Ltr",
-      "kerosene": "Rs 199.00/Ltr"
-    },
-    "Kathmandu": {
-      "petrol": "Rs 200.00/Ltr",
-      "diesel": "Rs 200.00/Ltr",
-      "kerosene": "Rs 200.00/Ltr"
-    },
-    "Pokhara": {
-      "petrol": "Rs 200.00/Ltr",
-      "diesel": "Rs 200.00/Ltr",
-      "kerosene": "Rs 200.00/Ltr"
-    },
-    "Dipayal": {
-      "petrol": "Rs 200.00/Ltr",
-      "diesel": "Rs 200.00/Ltr",
-      "kerosene": "Rs 200.00/Ltr"
+    
+   
     }
   },
   "other_prices": {
