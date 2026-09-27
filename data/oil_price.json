@@ -1,0 +1,90 @@
+{
+  "source": "Nepal Oil Corporation",
+  "updated_at": "6/24/2026",
+  "depots": {
+    "Charali": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Biratnagar": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Mahendranagar(Dhanusa)": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Birgunj": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Amlekhjung": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Bhalbari": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Nepalgung": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Dhangadi": {
+      "petrol": "Rs 197.50/Ltr",
+      "diesel": "Rs 197.50/Ltr",
+      "kerosene": "Rs 197.50/Ltr"
+    },
+    "Surkhet": {
+      "petrol": "Rs 199.00/Ltr",
+      "diesel": "Rs 199.00/Ltr",
+      "kerosene": "Rs 199.00/Ltr"
+    },
+    "Dang": {
+      "petrol": "Rs 199.00/Ltr",
+      "diesel": "Rs 199.00/Ltr",
+      "kerosene": "Rs 199.00/Ltr"
+    },
+    "Kathmandu": {
+      "petrol": "Rs 200.00/Ltr",
+      "diesel": "Rs 200.00/Ltr",
+      "kerosene": "Rs 200.00/Ltr"
+    },
+    "Pokhara": {
+      "petrol": "Rs 200.00/Ltr",
+      "diesel": "Rs 200.00/Ltr",
+      "kerosene": "Rs 200.00/Ltr"
+    },
+    "Dipayal": {
+      "petrol": "Rs 200.00/Ltr",
+      "diesel": "Rs 200.00/Ltr",
+      "kerosene": "Rs 200.00/Ltr"
+    }
+  },
+  "other_prices": {
+    "aviation_fuel_jet": "USD 0.98/Ltr",
+    "aviation_fuel_duty_free": {
+      "Charali": "USD 1697/KLtr",
+      "Biratnagar": "USD 1697/KLtr",
+      "Mahendranagar(Dhanusa)": "USD 1697/KLtr",
+      "Birgunj": "USD 1697/KLtr",
+      "Amlekhjung": "USD 1697/KLtr",
+      "Bhalbari": "USD 1697/KLtr",
+      "Nepalgung": "USD 1697/KLtr",
+      "Dhangadi": "USD 1697/KLtr",
+      "Surkhet": "USD 1697/KLtr",
+      "Dang": "USD 1697/KLtr",
+      "Kathmandu": "USD 1697/KLtr",
+      "Pokhara": "USD 1697/KLtr",
+      "Dipayal": "USD 1697/KLtr"
+    },
+    "gas": "Rs 2060/Cyl"
+  }
+}
