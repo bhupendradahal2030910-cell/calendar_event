@@ -1,18 +1,5 @@
-
 {
-  "enabled": true,
-  "title": "Patro Hub",
-  "headline": "Do you like\nPatro Hub?",
-  "message": "हामी तपाईंको अनुभव अझ राम्रो बनाउन निरन्तर मेहनत गरिरहेका छौं।\nतपाईंलाई एप मन परेको भए कृपया हामीलाई रेटिङ दिनुहोस्।",
-  "imageUrl": "",
-  "type": "rating",
-  "show_once": false,
-  "version": "35",
-  "start_date": "2026-10-06",
-  "end_date": "2026-10-26",
-  "primaryButton": "⭐ Rate Now",
-  "secondaryButton": "Later",
-  "playstoreUrl": "https://play.google.com/store/apps/details?id=com.shreeyadahal.patrohub",
-  "delaySeconds": 4,
-  "minAppOpens": 0
+  "version": "1.0.1",
+  "minVersion": "1.0.0",
+  "notes": ["Faster background removal", "Bug fixes and improvements"]
 }
