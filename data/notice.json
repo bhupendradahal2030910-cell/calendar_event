@@ -18,6 +18,6 @@
     "hi": "यह पावन पर्व आपके जीवन में सुख, शांति और समृद्धि लाए।"
   },
   "close_text": { "ne": "बन्द गर्नुहोस्", "en": "Close", "hi": "बंद करें" },
-  "button_text": { "ne": "एप सेयर गर्नुहोस्", "en": "Share App", "hi": "ऐप शेयर करें" },
+  "button_text": { "ne": "एप सेयर", "en": "Share App", "hi": "ऐप शेयर" },
   "button_url": "https://play.google.com/store/apps/details?id=com.shreeyadahal.patrohub"
 }
