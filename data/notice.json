@@ -4,7 +4,7 @@
   "start": "2026-10-10T00:00:00+05:45",
   "end": "2026-11-30T23:59:59+05:45",
   "show_once": false,
-  "dismissible": true,
+  "dismissible": false,
   "accent_color": "#D32F2F",
   "image": "https://calendar-event.pages.dev/data/images/dashain.jpg",
   "title": {
