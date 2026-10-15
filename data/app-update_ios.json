@@ -1,6 +1,7 @@
 {
   "version": "1.0.9",
   "notes": [
-   "Faster, smoother & more stable"
+    "Added eCard creation and sharing",
+    "Added a To-Do list to manage your daily tasks."
   ]
 }
