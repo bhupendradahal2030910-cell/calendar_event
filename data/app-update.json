@@ -1,7 +1,8 @@
 {
-  "version": "1.1.96",
+  "version": "1.1.97",
   "notes": [
-    "Added eCard creation and sharing",
-    "Added a To-Do list to manage your daily tasks."
+    "नयाँ eCard सिर्जना गर्ने र सेयर गर्ने सुविधा।",
+    "दैनिक कार्यहरू व्यवस्थित गर्न To-Do List।",
+    "कार्यसम्पादन र स्थिरतामा सुधार।"
   ]
 }
