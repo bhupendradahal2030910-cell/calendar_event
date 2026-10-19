@@ -1,7 +1,8 @@
 {
   "version": "1.2.2",
   "notes": [
-    "Improved overall user experience",
-    "Improved Nepali voice typing"
+    "Added E-Card support",
+    "Added Nepali voice typing",
+    "Improved Nepali voice typing accuracy"
   ]
 }
