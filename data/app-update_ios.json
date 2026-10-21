@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.15",
  "notes": [
-    "Fixed status bar visibility and improved the overall app experience."
+    "Faster app opening and smoother performance"
    
   ]
 }
