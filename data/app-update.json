@@ -1,6 +1,7 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.10",
   "notes": [
+    "Better stability and bug fixes",
     "UI improvements and enhancements"
     
   ]
