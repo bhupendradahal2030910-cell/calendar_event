@@ -1,7 +1,10 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "notes": [
-    "UI improvements and enhancements for a smoother user experience. Improved app performance, stability, and overall usability."
+    "Improved app performance and stability.",
+    "Enhanced the tablet experience with a more refined layout.",
+    "Fixed status bar visibility for a cleaner interface.",
+    "Minor improvements and bug fixes for a smoother experience."
    
   ]
 }
