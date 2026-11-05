@@ -1,10 +1,10 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.24",
   "notes": [
-    "Improved app performance and stability.",
-    "Enhanced the tablet experience with a more refined layout.",
-    "Fixed status bar visibility for a cleaner interface.",
-    "Minor improvements and bug fixes for a smoother experience."
+    "Added Nepali Typing for easier text input.",
+    "Introduced Smart Notes to organize your notes.",
+    "Improved Moon Phase accuracy.",
+    "Fixed bugs and improved overall performance."
    
   ]
 }
