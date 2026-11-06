@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "id": "dashain_2083",
-  "start": "2026-11-6",
-  "end": "2026-11-11",
+  "start": "2026-10-6",
+  "end": "2026-10-11",
   "show_once": false,
   "dismissible": true,
   "accent_color": "#D32F2F",
