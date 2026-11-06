@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "id": "dashain_2083",
-  "start": "2026-11-7",
+  "start": "2026-11-6",
   "end": "2026-11-11",
-  "show_once": true,
+  "show_once": false,
   "dismissible": true,
   "accent_color": "#D32F2F",
   "image": "https://calendar-event.pages.dev/images/dashain.jpg",
