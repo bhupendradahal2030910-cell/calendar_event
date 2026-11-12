@@ -1,10 +1,9 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "notes": [
-    "Added Nepali Typing for easier text input.",
-    "Introduced Smart Notes to organize your notes.",
-    "Improved Moon Phase accuracy.",
-    "Fixed bugs and improved overall performance."
-   
+    "Added Kundali Print & Share functionality.",
+    "Improved Kundali loading speed and performance.",
+    "Faster app response and smoother navigation.",
+    "Improved overall app performance and stability."
   ]
 }
