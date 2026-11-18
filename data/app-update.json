@@ -1,8 +1,6 @@
 {
-  "version": "1.2.19",
+  "version": "1.2.20",
   "notes": [
-    "Added Kundali Print & Share functionality.",
-    "Improved Kundali loading speed and performance.",
     "Faster app response and smoother navigation.",
     "Improved overall app performance and stability."
 
