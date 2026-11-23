@@ -1,9 +1,7 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "notes": [
-    "Faster app startup and improved performance.",
-    "Added a full Nepali keyboard for easy Nepali typing.",
-    "Improved Nepali typing experience and accuracy.",
+    "Optimized overall app performance for a smoother experience",
     "Bug fixes and stability improvements."
   ]
 }
